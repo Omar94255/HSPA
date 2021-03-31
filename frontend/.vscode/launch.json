@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://import { Component } from '@angular/core';@Component({    selector: 'app-property-card',    template: '<h1>I am a card</h1>'})export class  PropertyCardComponent{}",
+            "request": "launch",
+            "url": "http://import { Component } from '@angular/core';@Component({    selector: 'app-property-card',    template: '<h1>I am a card</h1>'})export class  PropertyCardComponent{}"
+        }
+    ]
+}
